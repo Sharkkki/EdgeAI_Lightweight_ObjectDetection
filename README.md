@@ -30,8 +30,10 @@ EdgeAI-Lightweight-ObjectDetection/
 ├── utils/ # Evaluation metrics, helper functions
 
 └── deployment/
-├── jetson_nano/
-└── raspberry_pi/
+
+    ├── jetson_nano/
+
+    └── raspberry_pi/
 
 ##  Project Timeline
 
