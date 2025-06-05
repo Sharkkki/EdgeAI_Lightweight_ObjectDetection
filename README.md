@@ -47,7 +47,7 @@ EdgeAI-Lightweight-ObjectDetection/
 - 📦 Source code for training, evaluation, compression, and deployment
 - 📊 Final report in IEEE format
 - 🖼️ Visualizations and evaluation results
-- 🎤 Presentations (Midterm and Final)
+- 🎤 Presentations (Final)
 
 ---
 
