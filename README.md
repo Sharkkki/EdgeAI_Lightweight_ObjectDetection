@@ -12,6 +12,7 @@ This project aims to design, optimize, and deploy lightweight object detection m
 ## Repository Structure
 
 EdgeAI-Lightweight-ObjectDetection/
+
     │
     ├── README.md
     ├── docs/ # Reports and presentations (IEEE format)
@@ -21,6 +22,7 @@ EdgeAI-Lightweight-ObjectDetection/
     ├── notebooks/ # Experiment results and visualizations
     ├── utils/ # Evaluation metrics, helper functions
     └── deployment/
+
         ├── jetson_nano/
         └── raspberry_pi/
 
