@@ -4,7 +4,9 @@ Design and optimize lightweight object detection models suitable for real-time i
 ## Project Summary
 
 **Title**: Lightweight Object Detection for Embedded Edge AI: Analysis, Optimization, and Application  
+
 **Period**: May 20 – August 15, 2025 (Weekdays Only)  
+
 **Goal**:  
 This project aims to design, optimize, and deploy lightweight object detection models for embedded edge devices. The focus is on understanding key detection architectures (YOLO, Faster R-CNN, SSD), applying model compression techniques (pruning & quantization), and deploying models on low-power hardware such as Jetson Nano and Raspberry Pi.
 
