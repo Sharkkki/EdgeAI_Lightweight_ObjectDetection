@@ -12,6 +12,7 @@ This project aims to design, optimize, and deploy lightweight object detection m
 ## Repository Structure
 
 EdgeAI-Lightweight-ObjectDetection/
+
 │
 
 ├── README.md
